@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ialamanao.github.io/sitemap.ialamanao.gz
+Sitemap: https://ialamanao.github.io/app/sitemap.ialamanao.gz
+Sitemap: https://ialamanao.github.io/assets/sitemap.ialamanao.gz
+Sitemap: https://ialamanao.github.io/css/sitemap.ialamanao.gz
+Sitemap: https://ialamanao.github.io/data/sitemap.ialamanao.gz
+Sitemap: https://ialamanao.github.io/includes/sitemap.ialamanao.gz
+Sitemap: https://ialamanao.github.io/item/sitemap.ialamanao.gz
+Sitemap: https://ialamanao.github.io/src/sitemap.ialamanao.gz
